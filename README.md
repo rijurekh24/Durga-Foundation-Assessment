@@ -6,7 +6,7 @@
 ## Live Demo
 
 ```bash
-https://emoployee-assesment.vercel.app/
+https://durga-foundation-assessment.vercel.app
 ```
 
 ## Installation Instructions
