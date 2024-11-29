@@ -1,8 +1,38 @@
-# React + Vite
+## Technologies Used
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+- React.js
+- CSS
 
-Currently, two official plugins are available:
+## Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+```bash
+https://emoployee-assesment.vercel.app/
+```
+
+## Installation Instructions
+
+Follow the steps below to get your project up and running locally.
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/rijurekh24/Durga-Foundation-Assesment-.git
+```
+
+### 2. Change Directory
+
+```bash
+cd Durga-Foundation-Assesment-
+```
+
+### 3. Install
+
+```bash
+npm install
+```
+
+### 4. Run
+
+```bash
+npm run dev
+```
