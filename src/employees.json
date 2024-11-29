@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Johnson Wood",
+    "role": "Front-End Developer",
+    "email": "johnsonwood@microsoft.com",
+    "image": "https://randomuser.me/api/portraits/men/1.jpg",
+    "active": true
+  },
+  {
+    "id": 2,
+    "name": "John Doe",
+    "role": "Team Lead",
+    "email": "johndoe@microsoft.com",
+    "image": "https://randomuser.me/api/portraits/men/2.jpg",
+    "active": false
+  },
+  {
+    "id": 3,
+    "name": "Fakhar Naveed",
+    "role": "UI/UX Designer",
+    "email": "fakhar@microsoft.com",
+    "image": "https://randomuser.me/api/portraits/men/3.jpg",
+    "active": true
+  },
+  {
+    "id": 4,
+    "name": "Alex Made",
+    "role": "Back-End Developer",
+    "email": "alexmade@microsoft.com",
+    "image": "https://randomuser.me/api/portraits/men/4.jpg",
+    "active": true
+  },
+  {
+    "id": 5,
+    "name": "Jane Smith",
+    "role": "Full-Stack Developer",
+    "email": "janesmith@microsoft.com",
+    "image": "https://randomuser.me/api/portraits/women/5.jpg",
+    "active": false
+  },
+  {
+    "id": 6,
+    "name": "Mark Lee",
+    "role": "DevOps Engineer",
+    "email": "marklee@microsoft.com",
+    "image": "https://randomuser.me/api/portraits/men/6.jpg",
+    "active": true
+  }
+]
